@@ -8,7 +8,7 @@
 -- import: ayushsoni1010.github.io/ui-packages/button as button
 -- import: ayushsoni1010.github.io/ui-packages/lib as lib
 
--- layout.base-layout: 
+-- layout.base-layout:
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
