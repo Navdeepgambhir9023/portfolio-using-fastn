@@ -1,4 +1,4 @@
--- import: navdeepgambhir9023.github.io/assets
+-- import: navdeepgambhir9023.github.io/portfolio-using-fastn/assets
 -- import: ayushsoni1010.github.io/ui-packages/header as navbar
 -- import: ayushsoni1010.github.io/ui-packages/base-layout as layout
 -- import: ayushsoni1010.github.io/ui-packages/social-buttons as social
@@ -19,18 +19,12 @@ header-item3: Blogs
 header-item4: Projects
 header-item5: Experience
 header-item6: Contact
-
-header-item1-Link: /portfolio-using-fastn
-header-item2-Link: /portfolio-using-fastn/about
-header-item3-Link: /portfolio-using-fastn/blogs
-header-item4-Link: /portfolio-using-fastn/projects
-header-item5-Link: /portfolio-using-fastn/experience
-header-item6-Link: /portfolio-using-fastn/contact
-
--- lib.toast:
-title: Hello, I'm Navdeep Singh a frontend Developer based in India
-link: https://github.com/Navdeepgambhir9023
-
+header-item1-link: /portfolio-using-fastn
+header-item2-link: /portfolio-using-fastn/about
+header-item3-link: /portfolio-using-fastn/blogs
+header-item4-link: /portfolio-using-fastn/projects
+header-item5-link: /portfolio-using-fastn/experience
+header-item6-link: /portfolio-using-fastn/contact
 
 -- ftd.row: 
 margin-top.px: 60
@@ -99,10 +93,11 @@ image: $assets.files.images.github.png
 -- social.social-button-wrapper:
 link: https://instagram.com/navdeep_gambhir
 image: $assets.files.images.instagram.png
-  
+
 -- social.social-button-wrapper:
 link: mailto:navdeepgambhir9023@gmail.com
 image: $assets.files.images.mail.png
+  
   
 -- end: ftd.row
 
@@ -110,7 +105,8 @@ image: $assets.files.images.mail.png
 
 -- end: ftd.column
 
--- ftd.text: Hello World
+-- ftd.image:
+src: $assets.files.images.dog.png
 
 -- end: ftd.row
 
