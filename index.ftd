@@ -25,6 +25,10 @@ header-item3-link: /portfolio-using-fastn/blogs
 header-item4-link: /portfolio-using-fastn/projects
 header-item5-link: /portfolio-using-fastn/experience
 header-item6-link: /portfolio-using-fastn/contact
+cta-item1: Resume
+cta-item1-link: https://ayushsoni1010.com/resume
+cta-item2: Schedule a Meeting
+cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- ftd.row: 
 margin-top.px: 60
@@ -67,6 +71,12 @@ isNewTab: true
 
 -- end: ftd.row
 
+;; --------------------------------------------------------------
+;; --------------------------------------------------------------
+
+;; ********** Social buttons wrapper **********
+
+
 -- end: ftd.column
 
 -- ftd.image:
@@ -75,3 +85,8 @@ src: $assets.files.images.dog.png
 -- end: ftd.row
 
 -- end: layout.base-layout
+
+;; --------------------------------------------------------------
+;; --------------------------------------------------------------
+
+
