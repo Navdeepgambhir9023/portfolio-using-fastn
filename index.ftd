@@ -27,11 +27,6 @@ header-item4-Link: /portfolio-using-fastn/Projects
 header-item5-Link: /portfolio-using-fastn/Experience
 header-item6-Link: /portfolio-using-fastn/Contact
 
-cta-item1: Resume
-cta-item1-link: https://ayushsoni1010.com/resume
-cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
-
 
 -- lib.toast:
 title: Hello, I'm Navdeep Singh a Full Stack Developer based in India
