@@ -6,12 +6,13 @@
 -- import: ayushsoni1010.github.io/ui-packages/footer as footer
 -- import: ayushsoni1010.github.io/ui-packages/hero-toast as github-toast
 -- import: ayushsoni1010.github.io/ui-packages/button as button
+-- import: ayushsoni1010.github.io/ui-packages/lib as lib
 
 -- layout.base-layout: 
 
---navbar.header:
+-- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /
+logoURL: /portfolio-using-fastn
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -20,15 +21,15 @@ header-item5: Experience
 header-item6: Contact
 
 header-item1-Link: /portfolio-using-fastn
-header-item2-Link: /portfolio-using-fastn/About
-header-item3-Link: /portfolio-using-fastn/Blogs
-header-item4-Link: /portfolio-using-fastn/Projects
-header-item5-Link: /portfolio-using-fastn/Experience
-header-item6-Link: /portfolio-using-fastn/Contact
+header-item2-Link: /portfolio-using-fastn/about
+header-item3-Link: /portfolio-using-fastn/blogs
+header-item4-Link: /portfolio-using-fastn/projects
+header-item5-Link: /portfolio-using-fastn/experience
+header-item6-Link: /portfolio-using-fastn/contact
 
 -- lib.toast:
-title: Hello, I'm Navdeep Singh a Full Stack Developer based in India
-link: https://navdeepgambhir9023.com/github
+title: Hello, I'm Navdeep Singh a frontend Developer based in India
+link: https://github.com/Navdeepgambhir9023
 
 
 -- ftd.row: 
@@ -40,17 +41,17 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Ayush Soni,
+secondTitle: Navdeep Singh,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: full stack
+firstTitle:  Frontend
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
 secondTitle: designer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: Experienced frontend developer skilled in SEO strategies, crafting visually stunning websites with top-notch user experiences.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
@@ -114,10 +115,9 @@ src: $assets.files.images.dog.png
 
 -- end: ftd.row
 
+-- end: layout.base-layout
+
 ;; --------------------------------------------------------------
 ;; --------------------------------------------------------------
 
--- ftd.column:
-margin-top.px: 120
-align-self: center
-align-content: center
+
