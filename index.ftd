@@ -7,7 +7,6 @@
 -- import: ayushsoni1010.github.io/ui-packages/hero-toast as github-toast
 -- import: ayushsoni1010.github.io/ui-packages/button as button
 
-
 -- layout.base-layout: 
 
 --navbar.header:
@@ -26,7 +25,6 @@ header-item3-Link: /portfolio-using-fastn/Blogs
 header-item4-Link: /portfolio-using-fastn/Projects
 header-item5-Link: /portfolio-using-fastn/Experience
 header-item6-Link: /portfolio-using-fastn/Contact
-
 
 -- lib.toast:
 title: Hello, I'm Navdeep Singh a Full Stack Developer based in India
