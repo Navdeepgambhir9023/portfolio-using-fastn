@@ -110,8 +110,7 @@ image: $assets.files.images.mail.png
 
 -- end: ftd.column
 
--- ftd.image: 
-src: $assets.files.images.dog.png
+-- ftd.text: Hello World
 
 -- end: ftd.row
 
