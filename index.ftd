@@ -49,7 +49,7 @@ secondTitle: developer
 firstTitle: and
 secondTitle: designer.
 
--- ftd.text: Experienced frontend developer skilled in SEO strategies, crafting visually stunning websites with top-notch user experiences.
+-- ftd.text: Experienced frontend developer skilled in SEO strategies, crafting visually stunning websites with top-notch user experience.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
