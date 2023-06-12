@@ -76,6 +76,35 @@ isNewTab: true
 
 ;; ********** Social buttons wrapper **********
 
+-- ftd.container:
+margin-top.px: 10
+
+-- ftd.row:
+spacing.fixed.px: 10
+
+-- social.social-button-wrapper:
+link: https://linkedin.com/in/navdeepgambhir
+image: $assets.files.images.linkedin.png
+
+-- social.social-button-wrapper:
+link: https://twitter.com/navdeep9023
+image: $assets.files.images.twitter.png
+  
+-- social.social-button-wrapper:
+link: https://github.com/navdeepgambhir9023
+image: $assets.files.images.github.png
+  
+-- social.social-button-wrapper:
+link: https://instagram.com/navdeep_gambhir
+image: $assets.files.images.instagram.png
+  
+-- social.social-button-wrapper:
+link: mailto:navdeepgambhir9023@gmail.com
+image: $assets.files.images.mail.png
+
+-- end: ftd.row
+
+-- end: ftd.container
 
 -- end: ftd.column
 
@@ -85,8 +114,5 @@ src: $assets.files.images.dog.png
 -- end: ftd.row
 
 -- end: layout.base-layout
-
 ;; --------------------------------------------------------------
 ;; --------------------------------------------------------------
-
-
