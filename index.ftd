@@ -30,7 +30,7 @@ cta-item1-link: https://drive.google.com/file/d/11WL1Mnej_8mzsPRJ8prKlIm-vhVzrn5
 cta-item2: Schedule a Meeting
 cta-item2-link: https://calendly.com/navdeepgambhir9023
 
--- ftd.row: 
+-- ftd.row:
 margin-top.px: 60
 spacing.fixed.px: 14
 
@@ -76,6 +76,35 @@ isNewTab: true
 
 ;; ********** Social buttons wrapper **********
 
+-- ftd.container:
+margin-top.px: 10
+
+-- ftd.row:
+spacing.fixed.px: 10
+
+-- social.social-button-wrapper:
+link: https://linkedin.com/in/navdeepgambhir
+image: $assets.files.images.linkedin.png
+
+-- social.social-button-wrapper:
+link: https://twitter.com/navdeep9023
+image: $assets.files.images.twitter.png
+  
+-- social.social-button-wrapper:
+link: https://github.com/navdeepgambhir9023
+image: $assets.files.images.github.png
+  
+-- social.social-button-wrapper:
+link: https://instagram.com/navdeep_gambhir
+image: $assets.files.images.instagram.png
+  
+-- social.social-button-wrapper:
+link: mailto:navdeepgambhir9023@gmail.com
+image: $assets.files.images.mail.png
+
+-- end: ftd.row
+
+-- end: ftd.container
 
 -- end: ftd.column
 
@@ -85,8 +114,5 @@ src: $assets.files.images.dog.png
 -- end: ftd.row
 
 -- end: layout.base-layout
-
 ;; --------------------------------------------------------------
 ;; --------------------------------------------------------------
-
-
