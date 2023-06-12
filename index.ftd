@@ -8,7 +8,7 @@
 -- import: ayushsoni1010.github.io/ui-packages/button as button
 -- import: ayushsoni1010.github.io/ui-packages/lib as lib
 
--- layout.base-layout:
+-- layout.base-layout: 
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
@@ -49,7 +49,7 @@ secondTitle: developer
 firstTitle: and
 secondTitle: designer.
 
--- ftd.text: Experienced frontend developer skilled in SEO strategies, crafting visually stunning websites with top-notch user experience.
+-- ftd.text: Experienced frontend developer skilled in SEO strategies, crafting visually stunning websites with top-notch user experiences.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
