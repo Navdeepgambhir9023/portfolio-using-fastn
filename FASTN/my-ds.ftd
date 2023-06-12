@@ -4,6 +4,7 @@
 
 ;; ********* my-ds document **********
 
+-- common.site-logo site-logo: $assets.files.images.ipsum-logo.svg
 
 
 -- component page:
