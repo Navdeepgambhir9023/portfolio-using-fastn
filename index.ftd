@@ -30,7 +30,7 @@ cta-item1-link: https://drive.google.com/file/d/11WL1Mnej_8mzsPRJ8prKlIm-vhVzrn5
 cta-item2: Schedule a Meeting
 cta-item2-link: https://calendly.com/navdeepgambhir9023
 
--- ftd.row: 
+-- ftd.row:
 margin-top.px: 60
 spacing.fixed.px: 14
 
